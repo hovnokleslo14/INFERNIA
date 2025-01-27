@@ -1,2 +1,2 @@
 # death-is-near
-my game launcher repository nothing more
+Infernia studio repository nothing more and nothing less.
