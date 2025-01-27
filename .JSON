@@ -1,0 +1,23 @@
+{
+  "launcherVer": 1,
+  "launcherUrl": "https://your-server.com/launcher.exe",
+  "games": [
+    {
+      "name": "game1",
+      "startCmd": "start game1.exe param1 param2",
+      "clientVer": 1,
+      "clientUrl": "https://your-server.com/game1-client.7z",
+      "patchUrls": [
+        "https://your-server.com/game1-patch1.7z",
+        "https://your-server.com/game1-patch2.7z"
+      ]
+    },
+    {
+      "name": "game2",
+      "startCmd": "start game2.exe paramA paramB",
+      "clientVer": 1,
+      "clientUrl": "https://your-server.com/game2-client.7z",
+      "patchUrls": []
+    }
+  ]
+}
