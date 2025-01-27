@@ -1,2 +1,2 @@
-# death-is-near
+# INFERNIA
 Infernia studio repository nothing more and nothing less.
